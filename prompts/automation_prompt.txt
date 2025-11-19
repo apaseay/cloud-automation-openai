@@ -1,0 +1,1 @@
+Analyze unused cloud resources and suggest ways to optimize costs.
